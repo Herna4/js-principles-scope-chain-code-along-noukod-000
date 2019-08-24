@@ -19,3 +19,6 @@ function overWriteBestCustomer(newFavorite){
   bestCustomer = newFavorite;
 }
 
+function attemptTwoFavoriteCustomers() {
+  
+}
