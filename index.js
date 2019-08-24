@@ -23,3 +23,14 @@ function changeLeastFavoriteCustomer() {
 
     return leastFavoriteCustomer;
 }
+
+function overWriteBestCustomer(newFavorite){
+  bestCustomer = newFavorite
+}
+
+
+
+function attemptTwoFavoriteCustomers(){
+    let favoriteCustomer = 'bar'
+    let favoriteCustomer = 'not bar'
+}
