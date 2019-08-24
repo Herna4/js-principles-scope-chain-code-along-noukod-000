@@ -23,8 +23,8 @@ function overWriteBestCustomer(newFavorite){
 //   return `congrats ${favoriteCustomer}`;
 // }
 
-// function attemptTwoFavoriteCustomers(){
-//     let favoriteCustomer;
-//     let favoriteCustomer;
+function attemptTwoFavoriteCustomers(){
+    let favoriteCustomer;
+    let favoriteCustomer;
     
-// }
+}
